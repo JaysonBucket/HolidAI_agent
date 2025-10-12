@@ -17,6 +17,7 @@ Issues, comments, recommondations? Let me know. Thanks for your contribution!
 
 ![Screenshot of the agent start screen.](https://github.com/JaysonBucket/HolidAI_agent/blob/main/Screen%20HolidAI%20agent%20start.jpg)
 
+![Screenshot of the agent start screen.](https://github.com/JaysonBucket/HolidAI_agent/blob/main/Screen%20sample%20day.jpg)
 
 
 
