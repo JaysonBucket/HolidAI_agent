@@ -14,13 +14,9 @@ Make a difference - set priority on accessibility - Workplace AI can help 💡
 Issues, comments, recommondations? Let me know. Thanks for your contribution!
 
 # Hello, it's me!
-I help people learn how to use Microsoft 365 Copilot Chat. Especially at the end of the year, things get hectic — everyone wants to get a lot done, and that’s where AI comes in! Until the end of the year, I’ll share a topic or a prompt every day that can help make work easier. Ready? Go for it!
 
-![Screenshot of the agent start screen showing the options for interactions such as free text or defined options like starting the prompt of the day.](https://github.com/JaysonBucket/ChatLotse/blob/main/Screenshot%20Startscreen.jpg)
+![Screenshot of the agent start screen.](https://github.com/JaysonBucket/HolidAI_agent/blob/main/Screen%20HolidAI%20agent%20start.jpg)
 
-once triggered, the daily flow starts
-
-![Screenshot of the agent showing the prompt of the day.](https://github.com/JaysonBucket/ChatLotse/blob/main/Screenshot%20Daily%20Flow%20example.jpg)  
 
 
 
