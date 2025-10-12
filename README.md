@@ -4,6 +4,8 @@ Revision 12.10.2025 - added sources and bilingual version
 Source: https://github.com/JaysonBucket/HolidAI_agent 
 License: https://github.com/JaysonBucket/HolidAI_agent#GPL-3.0-1-ov-file  
 
+Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
+
 Make a difference - set priority on accessibility - Workplace AI can help 💡
 - check out these clips on real life accessibility stories: https://www.youtube.com/playlist?list=PLtSVUgxIo6KokE3TjZBv0-blYRzAFWTFt
 - accessibility tools in M365 Copilot: https://support.microsoft.com/en-gb/topic/accessibility-tools-for-microsoft-copilot-5d106884-844b-4ce8-acfb-4d7a48dac618
