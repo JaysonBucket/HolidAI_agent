@@ -1,4 +1,9 @@
 # HolidAI Agent
+
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
+
+## Summary
 Revision 12.10.2025 - added sources and bilingual version
 
 Source: https://github.com/JaysonBucket/HolidAI_agent 
