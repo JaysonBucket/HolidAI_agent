@@ -7,7 +7,7 @@ https://www.jaysons.dev
 Revision 12.10.2025 - added sources and bilingual version
 
 Source: https://github.com/JaysonBucket/HolidAI_agent 
-License: https://github.com/JaysonBucket/HolidAI_agent#GPL-3.0-1-ov-file  
+License: MIT
 
 Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
 
